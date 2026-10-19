@@ -1,0 +1,2 @@
+# Scripts shell precisam de LF, senão quebram no Linux ("bad interpreter: /bin/bash^M")
+*.sh text eol=lf
