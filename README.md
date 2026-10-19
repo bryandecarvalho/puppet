@@ -23,8 +23,8 @@ A detecção é feita por `/etc/os-release` (`ID`, `ID_LIKE` e `VERSION_ID`).
 ## Uso rápido
 
 ```bash
-git clone <url-deste-repositorio>
-cd <pasta-do-repositorio>
+git clone https://github.com/bryandecarvalho/puppet.git
+cd puppet
 chmod +x instalar-puppet-agent.sh
 sudo ./instalar-puppet-agent.sh
 ```
